@@ -2,10 +2,10 @@
 Tribute page for Stan Lee
 
 
-## APP Link
-### https://stanlee-tribute-sd.glitch.me
+## Codepen
+### https://codepen.io/soumyadeepta_das/full/poJYZgd
 
-Try refreshing the page if thres loading or server error
+
 
 
 
