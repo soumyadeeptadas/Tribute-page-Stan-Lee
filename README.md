@@ -8,6 +8,6 @@ Tribute page for Stan Lee
 Try refreshing the page if thres loading or server error
 
 ## Codepen
-## https://codepen.io/soumyadeepta_das/full/poJYZgd
+### https://codepen.io/soumyadeepta_das/full/poJYZgd
 
 ![App](https://github.com/soumyadeeptadas/Tribute-page-Stan-Lee/blob/master/Screenshot%20(306).png)
