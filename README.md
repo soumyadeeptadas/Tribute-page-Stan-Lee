@@ -2,7 +2,7 @@
 Tribute page for Stan Lee
 
 
-## Codepen
+## Try it here
 ### https://codepen.io/soumyadeepta_das/full/poJYZgd
 
 
