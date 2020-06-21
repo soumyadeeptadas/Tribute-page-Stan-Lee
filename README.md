@@ -3,7 +3,7 @@ Tribute page for Stan Lee
 
 
 ## Try it here
-### https://codepen.io/soumyadeepta_das/full/poJYZgd
+### https://stanlee-tribute-sd.glitch.me/
 
 
 
